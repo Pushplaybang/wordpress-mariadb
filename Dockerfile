@@ -1,5 +1,5 @@
 FROM alpine:3.4
-MAINTAINER Wodby <admin@wodby.com>
+MAINTAINER Paul van Zyl <pushplaybang@gmail.com>
 
 RUN apk add --no-cache \
         bash \
